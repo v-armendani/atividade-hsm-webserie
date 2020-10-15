@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fear The Walking Dead</title>
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="./assets/ftwd-logo.svg">
+    
+</head>
+<body>
+    <nav>
+        <div class="wrap itens-justify">
+            <a href="./index.html"><img src="./assets/ftwd-logo.svg" alt="Fear The Walking Dead" height="50rem"></a>
+            <div class="itens-justify">
+                <ul class="nav-menu itens-justify">
+                    <li class="nav-item-menu"><a href="#galeria">Inicio</a></li>
+                    <li class="nav-item-menu"><a href="#galeria">Galeria</a></li>
+                    <li class="nav-item-menu"><a href="#galeria">Elenco</a></li>
+                    <li class="nav-item-menu"><a href="http://www.amctv.com.br/series/fear-the-walking-dead">Página Oficial</a></li>
+                </ul>
+                <button id="temporadas" class="btn-outline-small">Assistir</button>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="wrap">
+            <div class="wrap-main">
+                <h1>Fear The Walking Dead</h1>
+                <br>
+                <sup class="text-gray"><span class="text-gray">2015</span> | <span class="text-gray clas-indicativa">16</span> | <span class="text-gray">5 Temporadas</span> | <span class="text-gray">Séries de ação e aventura</span></sup>
+                <br>
+                <br>
+                <p>Ambientada em Los Angeles, a série mostra o começo do apocalipse zumbi <br> 
+                    e a temível desintegração da sociedade pelos olhos de uma família disfuncional, <br> 
+                    que precisa se unir para tentar sobreviver ao caos do fim dos tempos.
+                </p>
+                <br>
+                <sup><span class="text-gray">Estrelando:</span> Kim Dickens, Alycia Debnam-Carey, Colman Domingo</sup>
+                <br>
+                <sup><span class="text-gray">Criação:</span> Bill Johnson, Craig Forrest, Dave Erickson, Robert Kirkman</sup>
+            </div>
+            <div class="container-row itens-justify">
+                <div class="itens-justify">
+                    <img src="./assets/amc_logo_bk_bg.png" alt="AMC" height="42rem" style="margin: 0em 1em 0rem 1em;">
+                    <Strong>Assista agora mesmo.</Strong>
+                </div>
+                <button class="btn-primary-small" style="margin: 0em 1em 0em 0em ;">Assistir agora</button>
+            </div>
+        </div>
+    </main>
+
+    <section class="wrap galeria" id="galeria">
+
+        <div>
+            <h2>Galeria<span class="text-gray" style="font-weight: 300;"> | Fear The Walking Dead</span></h2>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="img-galery">
+                    <img src="./assets/img-01.jpg" alt="">
+                </div>
+                <div class="img-galery">
+                    <img src="./assets/img-02.jpg" alt="">
+                </div>
+                <div class="img-galery">
+                    <img src="./assets/img-03.jpg" alt="">
+                </div>
+                <div class="img-galery">
+                    <img src="./assets/img-04.jpg" alt="">
+                </div>
+            </div>
+            <div class="row">
+                <div class="img-galery">
+                    <img src="./assets/img-06.jpg" alt="">
+                </div>
+                <div class="img-galery">
+                    <img src="./assets/img-07.jpg" alt="">
+                </div>
+                <div class="img-galery">
+                    <img src="./assets/img-08.jpg" alt="">
+                </div>
+                <div class="img-galery">
+                    <img src="./assets/img-09.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="wrap elenco" id="elenco">
+
+        <div>
+            <h2>Elenco<span class="text-gray" style="font-weight: 300;"> | Fear The Walking Dead</span></h2>
+        </div>
+
+        <div class="row">
+            <div class="item-elenco">
+                <div class="img-elenco"><img src="./assets/Alicia-Clark.jpg" alt=""></div>
+                <div class="text-elenco"><a href="https://pt.wikipedia.org/wiki/Alycia_Debnam-Carey">Alycia Debnam-Carey</a></div>
+            </div>
+
+            <div class="item-elenco">
+                <div class="img-elenco"><img src="./assets/Morgan-Jones.jpg" alt=""></div>
+                <div class="text-elenco"><a href="https://pt.wikipedia.org/wiki/Lennie_James">Lennie James</a></div>
+            </div>
+
+            <div class="item-elenco">
+                <div class="img-elenco"><img src="./assets/Althea.jpg" alt=""></div>
+                <div class="text-elenco"><a href="https://pt.wikipedia.org/wiki/Maggie_Grace">Maggie Grace</a></div>
+            </div>
+
+            <div class="item-elenco">
+                <div class="img-elenco"><img src="./assets/John-Dorey.jpg" alt=""></div>
+                <div class="text-elenco"><a href="https://pt.wikipedia.org/wiki/Garret_Dillahunt">Garret Dillahunt</a></div>
+            </div>
+
+            <div class="item-elenco">
+                <div class="img-elenco"><img src="./assets/Luciana-Galvez.jpg" alt=""></div>
+                <div class="text-elenco"><a href="https://pt.wikipedia.org/wiki/Danay_Garc%C3%ADa">Danay García</a></div>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="wrap temporadas" id="temporadas">
+
+        <div>
+            <h2>Episódios<span class="text-gray" style="font-weight: 300;"> | Fear The Walking Dead</span></h2>
+        </div>
+
+        <div>
+
+        </div>
+
+        <div>
+
+        </div>
+
+    </section>
+
+    <footer>
+
+    </footer>
+</body>
+</html>
